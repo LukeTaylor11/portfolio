@@ -61,6 +61,7 @@
       <div class="container position-relative">
         <h1>Learning CompTIA Security+</h1>
       </div>
+    
     </div><!-- End Page Title -->
 
     <div class="container">

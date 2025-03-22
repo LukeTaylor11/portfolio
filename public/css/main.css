@@ -1061,6 +1061,10 @@ section,
   text-align: center;
 }
 
+#portfolio a{
+  cursor: pointer;
+}
+
 .portfolio .portfolio-filters li {
   cursor: pointer;
   display: inline-block;
@@ -1097,6 +1101,7 @@ section,
   box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
   height: 100%;
   overflow: hidden;
+  min-height:430px;
 }
 
 .portfolio .portfolio-content img {

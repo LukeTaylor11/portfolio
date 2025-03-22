@@ -99,66 +99,66 @@
 
   <div class="container">
 
-    <div class="isotope-layout" data-default-filter="*" data-layout="masonry" data-sort="original-order">
+    <div class="isotope-layout" data-default-filter="*" data-layout="fitRows" data-sort="original-order">
 
       <ul class="portfolio-filters isotope-filters" data-aos="fade-up" data-aos-delay="100">
         <li data-filter="*" class="filter-active">All</li>
-        <li data-filter=".filter-app">Website</li>
-        <li data-filter=".filter-product">App</li>
-        <li data-filter=".filter-branding">Network Lab</li>
-        <li data-filter=".filter-books">Ethical Hacking</li>
+        <li data-filter=".filter-website">Website</li>
+        <li data-filter=".filter-app">App</li>
+        <!-- <li data-filter=".filter-branding">Network Lab</li> -->
+        <!-- <li data-filter=".filter-books">Ethical Hacking</li> -->
       </ul><!-- End Portfolio Filters -->
 
       <div class="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="200">
 
 
-        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-books">
+        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-website">
           <div class="portfolio-content h-100">
-            <a href="assets/img/portfolio/books-1.jpg" data-gallery="portfolio-gallery-app" class="glightbox"><img src="https://firebasestorage.googleapis.com/v0/b/portfolio-4e5f0.appspot.com/o/images%2Fsimple_music_website.png?alt=media&token=628687e3-3cbe-4be8-8430-00f7ffb5ddaf" class="img-fluid" alt=""></a>
+            <a data-gallery="portfolio-gallery-app" class="glightbox"><img src="https://firebasestorage.googleapis.com/v0/b/portfolio-4e5f0.appspot.com/o/images%2Fsimple_music_website.png?alt=media&token=628687e3-3cbe-4be8-8430-00f7ffb5ddaf" class="img-fluid" alt=""></a>
             <div class="portfolio-info">
-              <h4><a href="portfolio-details.html" title="More Details">Simple Music</a></h4>
+              <h4><a title="More Details">Simple Music</a></h4>
               <p>This was my first ever personal project. It's a site that pulls music from youtube using their API and automatically adds it to a queue which won't interrupt the song currently playing.</p>
             </div>
           </div>
         </div><!-- End Portfolio Item -->
 
          
-        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-books">
+        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-website">
           <div class="portfolio-content h-100">
-            <a href="assets/img/portfolio/books-1.jpg" data-gallery="portfolio-gallery-app" class="glightbox"><img src="https://firebasestorage.googleapis.com/v0/b/portfolio-4e5f0.appspot.com/o/images%2Fjmorph_macros.png?alt=media&token=de7eaa02-3519-497f-b389-4b2a1ca908d2" class="img-fluid" alt=""></a>
+            <a data-gallery="portfolio-gallery-app" class="glightbox"><img src="https://firebasestorage.googleapis.com/v0/b/portfolio-4e5f0.appspot.com/o/images%2Fjmorph_macros.png?alt=media&token=de7eaa02-3519-497f-b389-4b2a1ca908d2" class="img-fluid" alt=""></a>
             <div class="portfolio-info">
-              <h4><a href="portfolio-details.html" title="More Details">JMorph Macros</a></h4>
+              <h4><a title="More Details">JMorph Macros</a></h4>
               <p>This is a personal project for the game World of Warcraft. It provides the user with an ingame macro for the appearance of any other player they want. It does this by using Blizzard's Battle.net api. It was a very fun project to work on and quite successful. 8.3k youtube views plus active use</p>
+            </div>
+          </div>
+        </div><!-- End Portfolio Item -->
+
+        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-website">
+          <div class="portfolio-content h-100">
+            <a  data-gallery="portfolio-gallery-app" class="glightbox"><img src="https://firebasestorage.googleapis.com/v0/b/portfolio-4e5f0.appspot.com/o/images%2Fkohima_museum.png?alt=media&token=acb77186-50a8-4f86-909f-ea20a5986899" class="img-fluid" alt=""></a>
+            <div class="portfolio-info">
+              <h4><a title="More Details">Kohima Museum</a></h4>
+              <p>This is a simple word press website I got asked to re-design and add new features to. It was my first time using wordpress and it seemed very simple to use. I enjoyed the project, although I do prefer manually creating the websites from scratch.</p>
             </div>
           </div>
         </div><!-- End Portfolio Item -->
 
         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
           <div class="portfolio-content h-100">
-            <a href="assets/img/portfolio/app-1.jpg" data-gallery="portfolio-gallery-app" class="glightbox"><img src="https://firebasestorage.googleapis.com/v0/b/portfolio-4e5f0.appspot.com/o/images%2Fkohima_museum.png?alt=media&token=acb77186-50a8-4f86-909f-ea20a5986899" class="img-fluid" alt=""></a>
+            <a data-gallery="portfolio-gallery-app" class="glightbox"><img src="https://firebasestorage.googleapis.com/v0/b/portfolio-4e5f0.appspot.com/o/images%2Freceipts_calculator.png?alt=media&token=1c8ddf5b-da6d-467c-bde8-7c747ea9dcf1" class="img-fluid" alt=""></a>
             <div class="portfolio-info">
-              <h4><a href="portfolio-details.html" title="More Details">Kohima Museum</a></h4>
-              <p>This is a simple word press website I got asked to re-design and add new features to. It was my first time using wordpress and it seemed very simple to use. I enjoyed the project, although I do prefer manually creating the websites from scratch.</p>
-            </div>
-          </div>
-        </div><!-- End Portfolio Item -->
-
-        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
-          <div class="portfolio-content h-100">
-            <a href="assets/img/portfolio/product-1.jpg" data-gallery="portfolio-gallery-app" class="glightbox"><img src="https://firebasestorage.googleapis.com/v0/b/portfolio-4e5f0.appspot.com/o/images%2Freceipts_calculator.png?alt=media&token=1c8ddf5b-da6d-467c-bde8-7c747ea9dcf1" class="img-fluid" alt=""></a>
-            <div class="portfolio-info">
-              <h4><a href="portfolio-details.html" title="More Details">Receipts Calculator App</a></h4>
+              <h4><a title="More Details">Receipts Calculator App</a></h4>
               <p>This was a personal project I made to use when I got sent away on work courses. At the end of each course I had to claim back my receipts and this was an easy way to calculate the total price, with included screenshots of each receipt which saved me a lot of time.</p>
             </div>
           </div>
         </div><!-- End Portfolio Item -->
 
-        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
+        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-website">
           <div class="portfolio-content h-100">
-            <a href="assets/img/portfolio/product-1.jpg" data-gallery="portfolio-gallery-app" class="glightbox"><img src="https://firebasestorage.googleapis.com/v0/b/portfolio-4e5f0.appspot.com/o/images%2Freceipts_calculator.png?alt=media&token=1c8ddf5b-da6d-467c-bde8-7c747ea9dcf1" class="img-fluid" alt=""></a>
+            <a data-gallery="portfolio-gallery-app" class="glightbox"><img src="img/thoughtfoundation.png" style="max-height:220px" class="img-fluid" alt=""></a>
             <div class="portfolio-info">
-              <h4><a href="portfolio-details.html" title="More Details">Receipts Calculator App</a></h4>
-              <p>This was a personal project I made to use when I got sent away on work courses. At the end of each course I had to claim back my receipts and this was an easy way to calculate the total price, with included screenshots of each receipt which saved me a lot of time.</p>
+              <h4><a title="More Details">Thought Foundation</a></h4>
+              <p>This was my main project whilst working at Cedrec. Building this really helped accelerate my skillset, and give me a wide range of knowledge. I copied the design from a given photoshop file and implemented users, artwork submissions, stocking system, blog, and an event booking system.</p>
             </div>
           </div>
         </div><!-- End Portfolio Item -->
@@ -166,15 +166,7 @@
 
      
 
-        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-books">
-          <div class="portfolio-content h-100">
-            <a href="assets/img/portfolio/books-1.jpg" data-gallery="portfolio-gallery-app" class="glightbox"><img src="https://firebasestorage.googleapis.com/v0/b/portfolio-4e5f0.appspot.com/o/images%2Fjmorph_macros.png?alt=media&token=de7eaa02-3519-497f-b389-4b2a1ca908d2" class="img-fluid" alt=""></a>
-            <div class="portfolio-info">
-              <h4><a href="portfolio-details.html" title="More Details">JMorph Macros</a></h4>
-              <p>This is a personal project for the game World of Warcraft. It provides the user with an ingame macro for the appearance of any other player they want. It does this by using Blizzard's Battle.net api. It was a very fun project to work on and quite successful. 8.3k youtube views plus active use</p>
-            </div>
-          </div>
-        </div><!-- End Portfolio Item -->
+
 
        
 

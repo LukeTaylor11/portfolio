@@ -33,7 +33,7 @@
   <header id="header" class="header d-flex align-items-center fixed-top">
     <div class="container-fluid container-xl position-relative d-flex align-items-center justify-content-between">
 
-      <a href="index.html" class="logo d-flex align-items-center">
+      <a href="/" class="logo d-flex align-items-center">
         <!-- Uncomment the line below if you also wish to use an image logo -->
         <!-- <img src="assets/img/logo.png" alt=""> -->
         <h1 class="sitename">Portfolio</h1>
@@ -55,9 +55,11 @@
     <!-- Page Title -->
     <div class="page-title dark-background">
       <div class="container position-relative">
-        <h1>Stay Up To Date With My Latest Posts</h1>
+        <h1>What have I been up to?</h1>
       </div>
     </div><!-- End Page Title -->
+
+    
 
     <!-- Blog Posts Section -->
     <section id="blog-posts" class="blog-posts section">
@@ -69,19 +71,19 @@
             <article>
 
               <div class="post-img">
-                <img src="img/blog/blog-1.jpg" alt="" class="img-fluid">
+                <img src="https://www.smbceo.com/wp-content/uploads/2020/10/CompTIA-SecuritySY0-501.jpg" alt="" class="img-fluid">
               </div>
 
-              <p class="post-category">Politics</p>
+              <p class="post-category">Cyber Security</p>
 
               <h2 class="title">
-                <a href="/blog/1">Dolorum optio tempore voluptas dignissimos</a>
+                <a href="/blog/3">Learning CompTIA Security +</a>
               </h2>
 
               <div class="d-flex align-items-center">
-                <img src="img/blog/blog-author.jpg" alt="" class="img-fluid post-author-img flex-shrink-0">
+                <img src="img/profile.jpg" alt="" class="img-fluid post-author-img flex-shrink-0">
                 <div class="post-meta">
-                  <p class="post-author">Maria Doe</p>
+                  <p class="post-author">Luke Taylor</p>
                   <p class="post-date">
                     <time datetime="2022-01-01">Jan 1, 2022</time>
                   </p>
@@ -95,19 +97,19 @@
             <article>
 
               <div class="post-img">
-                <img src="img/blog/blog-2.jpg" alt="" class="img-fluid">
+                <img src="https://media.istockphoto.com/id/1314580639/photo/military-young-woman-managing-server-network.jpg?s=612x612&w=0&k=20&c=KzdAjtDby4-9Gj08n0Wu0Q8ce8Fk3hbooD-hj_UCpxU=" alt="" class="img-fluid">
               </div>
 
-              <p class="post-category">Sports</p>
+              <p class="post-category">Computer Networks</p>
 
               <h2 class="title">
-                <a href="/blog/1">Nisi magni odit consequatur autem nulla dolorem</a>
+                <a href="/blog/2">How was being a military network engineer?</a>
               </h2>
 
               <div class="d-flex align-items-center">
-                <img src="img/blog/blog-author-2.jpg" alt="" class="img-fluid post-author-img flex-shrink-0">
+              <img src="img/profile.jpg" alt="" class="img-fluid post-author-img flex-shrink-0">
                 <div class="post-meta">
-                  <p class="post-author">Allisa Mayer</p>
+                  <p class="post-author">Luke Taylor</p>
                   <p class="post-date">
                     <time datetime="2022-01-01">Jun 5, 2022</time>
                   </p>
@@ -121,19 +123,19 @@
             <article>
 
               <div class="post-img">
-                <img src="img/blog/blog-3.jpg" alt="" class="img-fluid">
+                <img src="https://fortitudemsp.co.uk/wp-content/uploads/2024/09/cyber-security-in-derby.jpg" alt="" class="img-fluid">
               </div>
 
-              <p class="post-category">Entertainment</p>
+              <p class="post-category">Cyber Security</p>
 
               <h2 class="title">
-                <a href="/blog/1">Possimus soluta ut id suscipit ea ut in quo quia et soluta</a>
+                <a href="/blog/1">Reasons behind my transition into cyber security</a>
               </h2>
 
               <div class="d-flex align-items-center">
-                <img src="img/blog/blog-author-3.jpg" alt="" class="img-fluid post-author-img flex-shrink-0">
+              <img src="img/profile.jpg" alt="" class="img-fluid post-author-img flex-shrink-0">
                 <div class="post-meta">
-                  <p class="post-author">Mark Dower</p>
+                  <p class="post-author">Luke Taylor</p>
                   <p class="post-date">
                     <time datetime="2022-01-01">Jun 22, 2022</time>
                   </p>
@@ -143,83 +145,7 @@
             </article>
           </div><!-- End post list item -->
 
-          <div class="col-lg-4">
-            <article>
-
-              <div class="post-img">
-                <img src="img/blog/blog-4.jpg" alt="" class="img-fluid">
-              </div>
-
-              <p class="post-category">Sports</p>
-
-              <h2 class="title">
-                <a href="/blog/1">Non rem rerum nam cum quo minus olor distincti</a>
-              </h2>
-
-              <div class="d-flex align-items-center">
-                <img src="img/blog/blog-author-4.jpg" alt="" class="img-fluid post-author-img flex-shrink-0">
-                <div class="post-meta">
-                  <p class="post-author">Lisa Neymar</p>
-                  <p class="post-date">
-                    <time datetime="2022-01-01">Jun 30, 2022</time>
-                  </p>
-                </div>
-              </div>
-
-            </article>
-          </div><!-- End post list item -->
-
-          <div class="col-lg-4">
-            <article>
-
-              <div class="post-img">
-                <img src="img/blog/blog-5.jpg" alt="" class="img-fluid">
-              </div>
-
-              <p class="post-category">Politics</p>
-
-              <h2 class="title">
-                <a href="/blog/1">Accusamus quaerat aliquam qui debitis facilis consequatur</a>
-              </h2>
-
-              <div class="d-flex align-items-center">
-                <img src="img/blog/blog-author-5.jpg" alt="" class="img-fluid post-author-img flex-shrink-0">
-                <div class="post-meta">
-                  <p class="post-author">Denis Peterson</p>
-                  <p class="post-date">
-                    <time datetime="2022-01-01">Jan 30, 2022</time>
-                  </p>
-                </div>
-              </div>
-
-            </article>
-          </div><!-- End post list item -->
-
-          <div class="col-lg-4">
-            <article>
-
-              <div class="post-img">
-                <img src="img/blog/blog-6.jpg" alt="" class="img-fluid">
-              </div>
-
-              <p class="post-category">Entertainment</p>
-
-              <h2 class="title">
-                <a href="/blog/1">Distinctio provident quibusdam numquam aperiam aut</a>
-              </h2>
-
-              <div class="d-flex align-items-center">
-                <img src="img/blog/blog-author-6.jpg" alt="" class="img-fluid post-author-img flex-shrink-0">
-                <div class="post-meta">
-                  <p class="post-author">Mika Lendon</p>
-                  <p class="post-date">
-                    <time datetime="2022-01-01">Feb 14, 2022</time>
-                  </p>
-                </div>
-              </div>
-
-            </article>
-          </div><!-- End post list item -->
+         
 
         </div>
       </div>
@@ -234,12 +160,6 @@
           <ul>
             <li><a href="#"><i class="bi bi-chevron-left"></i></a></li>
             <li><a href="#" class="active">1</a></li>
-            <li><a href="#">2</a></li>
-            <li><a href="#">3</a></li>
-            <li><a href="#">4</a></li>
-            <li>...</li>
-            <li><a href="#">10</a></li>
-            <li><a href="#"><i class="bi bi-chevron-right"></i></a></li>
           </ul>
         </div>
       </div>
