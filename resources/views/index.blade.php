@@ -14,12 +14,13 @@
   <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
 
   <!-- Vendor CSS Files -->
-  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
-  <link href="vendor/aos/aos.css" rel="stylesheet">
-  <link href="vendor/animate.css/animate.min.css" rel="stylesheet">
-  <link href="vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
-  <link href="vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+  <link href="{{url('vendor/bootstrap/css/bootstrap.min.css')}}" rel="stylesheet">
+  <link href="{{url('/vendor/bootstrap-icons/bootstrap-icons.css')}}" rel="stylesheet">
+  <link href="{{url('/vendor/bootstrap-icons/bootstrap-icons.css')}}" rel="stylesheet">
+  <link href="{{url('/vendor/aos/aos.css')}}" rel="stylesheet">
+  <link href="{{url('vendor/animate.css/animate.min.css')}}" rel="stylesheet">
+  <link href="{{url('/vendor/swiper/swiper-bundle.min.css')}}" rel="stylesheet">
+
 
   <!-- Main CSS File -->
   <link href="{{url('/css/main.css')}}" rel="stylesheet">
@@ -32,15 +33,15 @@
   <header id="header" class="header d-flex align-items-center fixed-top">
     <div class="container-fluid container-xl position-relative d-flex align-items-center justify-content-between">
 
-      <a href="index.html" class="logo d-flex align-items-center">
+      <a href="/" class="logo d-flex align-items-center">
 
         <h1 class="sitename">Portfolio</h1>
       </a>
 
       <nav id="navmenu" class="navmenu">
         <ul>
-          <li><a href="#hero" class="active">Home</a></li>
-          <li><a href="file:///C:/Users/luket/Documents/Tech/portfolio_new/blog.html">Blog</a></li>
+          <li><a href="/" class="active">Home</a></li>
+          <li><a href="blog">Blog</a></li>
    
         </ul>
         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
@@ -507,17 +508,20 @@
   <div id="preloader"></div>
 
   <!-- Vendor JS Files -->
-  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="vendor/php-email-form/validate.js"></script>
-  <script src="vendor/aos/aos.js"></script>
-  <script src="vendor/glightbox/js/glightbox.min.js"></script>
-  <script src="vendor/imagesloaded/imagesloaded.pkgd.min.js"></script>
-  <script src="vendor/isotope-layout/isotope.pkgd.min.js"></script>
-  <script src="vendor/swiper/swiper-bundle.min.js"></script>
 
+  <script src="{{url('/vendor/bootstrap/js/bootstrap.bundle.min.js')}}"></script>
+  <script src="{{url('/vendor/php-email-form/validate.js')}}"></script>
+  <script src="{{url('/vendor/aos/aos.js')}}"></script>
+  <script src="{{url('/vendor/glightbox/js/glightbox.min.js')}}"></script>
+  <script src="{{url('/vendor/imagesloaded/imagesloaded.pkgd.min.js')}}"></script>
+  <script src="{{url('/vendor/isotope-layout/isotope.pkgd.min.js')}}"></script>
+  <script src="{{url('/vendor/swiper/swiper-bundle.min.js')}}"></script>
+
+  
     <!-- Main JS File -->
 
     <script src="{{url('/js/main.js')}}"></script>
+
 
 
 </body>
