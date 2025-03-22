@@ -390,7 +390,7 @@
             <article>
 
               <div class="post-img">
-                <img src="" alt="" class="img-fluid">
+                <img src="https://fortitudemsp.co.uk/wp-content/uploads/2024/09/cyber-security-in-derby.jpg" alt="" class="img-fluid">
               </div>
 
               <p class="post-category">Cyber Security</p>
@@ -494,10 +494,9 @@
   <footer id="footer" class="footer dark-background">
     <div class="container">
       <div class="social-links d-flex justify-content-center">
-        <a href=""><i class="bi bi-github"></i></a>
-        <a href=""><i class="bi bi-linkedin"></i></a>
+        <a href="https://github.com/LukeTaylor11" target="_blank"><i class="bi bi-github"></i></a>
+        <a href="https://www.linkedin.com/in/luke-taylor-478742119/" target="_blank"><i class="bi bi-linkedin"></i></a>
       </div>
-    
     </div>
   </footer>
 
