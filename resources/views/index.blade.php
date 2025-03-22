@@ -345,7 +345,7 @@
               <p class="post-category">Cyber Security</p>
 
               <h2 class="title">
-                <a href="blog-details.html">Learning CompTIA Security +</a>
+                <a href="/blog/1">Learning CompTIA Security +</a>
               </h2>
 
               <div class="d-flex align-items-center">
@@ -371,7 +371,7 @@
               <p class="post-category">Computer Networks</p>
 
               <h2 class="title">
-                <a href="blog-details.html">How was being a military network engineer?</a>
+                <a href="/blog/1">How was being a military network engineer?</a>
               </h2>
 
               <div class="d-flex align-items-center">
@@ -396,7 +396,7 @@
               <p class="post-category">Cyber Security</p>
 
               <h2 class="title">
-                <a href="blog-details.html">Reasons behind my transition into cyber security</a>
+                <a href="/blog/1">Reasons behind my transition into cyber security</a>
               </h2>
 
               <div class="d-flex align-items-center">
