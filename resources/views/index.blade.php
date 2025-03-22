@@ -155,7 +155,7 @@
 
         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-website">
           <div class="portfolio-content h-100">
-            <a data-gallery="portfolio-gallery-app" class="glightbox"><img src="img/thoughtfoundation.png" style="max-height:220px" class="img-fluid" alt=""></a>
+            <a data-gallery="portfolio-gallery-app" class="glightbox"><img src="img/thoughtfoundation.PNG" style="max-height:220px" class="img-fluid" alt=""></a>
             <div class="portfolio-info">
               <h4><a title="More Details">Thought Foundation</a></h4>
               <p>This was my main project whilst working at Cedrec. Building this really helped accelerate my skillset, and give me a wide range of knowledge. I copied the design from a given photoshop file and implemented users, artwork submissions, stocking system, blog, and an event booking system.</p>
